@@ -1,0 +1,2 @@
+x = 'LUCIANO'
+assert x == x.upper() or x == x.lower()
